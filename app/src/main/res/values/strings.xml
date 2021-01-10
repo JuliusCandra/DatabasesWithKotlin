@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyNotesApp</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="date">Date</string>
+    <string name="ubah">Ubah</string>
+    <string name="update">Update</string>
+    <string name="tambah">Tambah</string>
+    <string name="simpan">Simpan</string>
+    <string name="nama_developer">Candra Julius Sinaga</string>
+    <string name="error">Field can not be blank</string>
+    <string name="gagal">Gagal mengupdate data</string>
+    <string name="gagal_menambah_data">Gagal Menambah Data</string>
+    <string name="batal">Batal</string>
+    <string name="membatalkan_close">Apakah anda ingin membatalkan perubahan pada form?</string>
+    <string name="hapus_item">Apakah anda ingin menghapus item ini?</string>
+    <string name="hapus_note">Hapus Note</string>
+    <string name="ya">Ya</string>
+    <string name="menghapus_data">Gagal menghapus data</string>
+    <string name="note">Note</string>
+    <string name="tidak_ada_data">Tidak ada data saat ini</string>
+    <string name="item_berhasil">Item berhasil ditambahkan</string>
+    <string name="berhasil_diubah">Satu item berhasil diubah</string>
+    <string name="berhasil_dihapus">Satu item berhasil dihapus</string>
+    <string name="tidak">Tidak</string>
+</resources>
